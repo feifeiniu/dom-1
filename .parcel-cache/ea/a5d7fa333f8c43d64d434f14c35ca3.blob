@@ -1,0 +1,13 @@
+window.dom = {
+  // create(tagName){
+  //   return document.createElement(tagName)
+  // }
+  create(string ){
+    const container = document.createElement("template");//template标签可以容纳任意元素
+    container.innerHTML = string ;
+    return container.children[0];
+  }
+
+};
+
+ 

@@ -1,0 +1,11 @@
+10
+27D:\jrengu\dom-1\src\main.js132670895786040371 0
+20D:\jrengu\dom-1\dist132670895786891441 1
+19D:\jrengu\dom-1\src132670799255639598 1
+42D:\jrengu\dom-1\dist\index.9b0ae0e5.js.map132670895786881476 0
+38D:\jrengu\dom-1\dist\index.9b0ae0e5.js132670895786861543 0
+26D:\jrengu\dom-1\src\dom.js132670889902243040 0
+30D:\jrengu\dom-1\src\index.html132670807878324021 0
+42D:\jrengu\dom-1\dist\index.bd78eeec.js.map132670895786881476 0
+38D:\jrengu\dom-1\dist\index.bd78eeec.js132670895786861543 0
+31D:\jrengu\dom-1\dist\index.html132670895786861543 0
